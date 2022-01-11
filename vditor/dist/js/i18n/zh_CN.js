@@ -81,5 +81,5 @@ window.VditorI18n = {
   'upload': '上传图片或文件',
   'uploadError': '上传错误',
   'uploading': '上传中...',
-  'wysiwyg': '所见即所得'
+  'wysiwyg': '所见即所得',
 }

@@ -1,0 +1,1 @@
+import{a as e}from"./index.ef1bf2b6.js";const r="/article";function s(t){return e.request({url:r+"/list",method:"post",params:t})}function o(t){return e.request({url:r+"/detail/"+t,method:"get"})}export{o as a,s as g};
